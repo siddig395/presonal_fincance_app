@@ -14,7 +14,13 @@ This Python program helps manage personal finances by tracking income and expens
 - `main.py`: The main script that runs the finance manager.
 - `data_entry.py`: Handles user input validation.
 - `finance_data.csv`: Stores financial transaction data.
-  
+
+# 1- Transactions output
+![output](https://github.com/user-attachments/assets/7dc52339-e8d6-42af-88eb-936be2c76a82)
+
+# 2- Plot
+![plot](https://github.com/user-attachments/assets/cc1de430-ffda-4521-ad1c-e8f43289229b)
+
 ## How to Run
 
 1. Ensure you have Python installed.
